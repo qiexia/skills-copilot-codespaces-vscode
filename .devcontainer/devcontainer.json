@@ -1,0 +1,8 @@
+{
+  "name": "Code spacing",
+  "customizations": {
+    "vscode": {
+      "extensions": [ "GitHub.copilot" ]
+    }
+  }
+}
